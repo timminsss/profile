@@ -92,6 +92,8 @@ h1, h2 {
   /* For a screen < 720px, this CSS will be read */
   .container {
     width: 500px;
+    text-align: centre;
+    margin: 0 auto;
   }
   .list-inline-item {
     padding: 5px;
@@ -104,6 +106,7 @@ h1, h2 {
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
+    margin: 0 auto;
   }
   .list-inline-item {
     line-height: 50%;
